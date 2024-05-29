@@ -7,6 +7,6 @@ class Contoh1 extends CI_Controller
         echo"Nama saya Asri Nizar,
             Saya tinggal di Kota Pontianak,
             olah raga yang saya sukai adalah
-            Menonton, saya mahasiswa universitas Bina Sarana Informatika";
+            Menonton, saya mahasiswa universitas Bina Sarana Informatika yes";
     }
 }
